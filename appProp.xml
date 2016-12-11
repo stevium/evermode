@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<window>
+  <dimension h="754.0" w="1370.0"/>
+  <position x="-5.0" y="7.0"/>
+  <localization value="en"/>
+  <theme value="javax.swing.plaf.metal.MetalLookAndFeel"/>
+  <openedWorkspace loc="C:\Users\Milos\Evermode\Default Workspace"/>
+  <workspace loc="C:\Users\Milos\Evermode\Default Workspace">
+    <selectedDiagram name="C:\Users\Milos\Evermode\Default Workspace/fsdfsa\fafsd.xml"/>
+    <selectedProject name="C:\Users\Milos\Evermode\Default Workspace/fsdfsa"/>
+    <openedDiagrams>
+      <diagram name="C:\Users\Milos\Evermode\Default Workspace/fsdfsa\fafsd.xml"/>
+    </openedDiagrams>
+    <project name="C:\Users\Milos\Evermode\Default Workspace/fsdfsa">
+      <diagram name="C:\Users\Milos\Evermode\Default Workspace/fsdfsa\fafsd.xml"/>
+    </project>
+  </workspace>
+</window>
